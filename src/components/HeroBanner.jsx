@@ -80,10 +80,9 @@ const HeroBanner = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
         >
-          <h1 className="text-[50px] md:text-[120px] 2xl:text-[189px] leading-[50px] md:leading-[125px]  2xl:leading-[192px] font-oswald uppercase">
-            I Am a Full Stack
-            <br className="invisible md:visible" />
-            Developer
+          <h1 className="text-[40px] md:text-[105px] 2xl:text-[120px] leading-[40px] md:leading-[135px]  2xl:leading-[182px] font-oswald uppercase">
+            Harnoor Singh
+            <br className="invisible md:visible" />A Full-Stack Developer
           </h1>
         </motion.div>
         {/* BIG HEADING END */}
@@ -96,12 +95,12 @@ const HeroBanner = () => {
           transition={{ duration: 0.7, delay: 0.25 }}
         >
           <div className="font-light mb-4">
-            👋 Hi, I Am <span className="font-semibold">John Doe</span>
+            👋 Hi, I Am <span className="font-semibold">Harnoor Singh</span>
           </div>
           <div className="max-w-[510px]">
-            I create and maintain modern websites and applications. I solve all
-            your business problems. Lorem Ipsum is simply dummy text of the
-            printing and typesetting industry.
+            Hello! I'm Harnoor Singh, a Full Stack Developer with a passion for
+            fintech. I specialize in creating efficient and scalable web
+            applications.
           </div>
         </motion.div>
         {/* INTRO END */}
@@ -115,7 +114,7 @@ const HeroBanner = () => {
         >
           {/* START */}
           <div className="flex items-center gap-3">
-            <div className="text-[80px] font-light">80+</div>
+            <div className="text-[80px] font-light">10+</div>
             <div className="leading-[22px]">
               SUCCESSFULLY
               <br />
@@ -128,7 +127,7 @@ const HeroBanner = () => {
 
           {/* START */}
           <div className="flex items-center gap-3">
-            <div className="text-[80px] font-light">15+</div>
+            <div className="text-[80px] font-light">2+</div>
             <div className="leading-[22px]">
               YEARS OF
               <br />
